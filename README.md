@@ -6,6 +6,7 @@ Here you can find projects created for **Escuela Da Vinci**, as well as personal
 
 Each project reflects a different stage of my learning process, allowing me to combine my **technical and creative skills** to develop functional, visually engaging, and user-focused experiences.
 
+
 ## Education
 
 **Technical Degree in Digital Design & Animation — Universidad de Belgrano**  
@@ -23,6 +24,8 @@ My background in **graphic design, multimedia, animation, and UX** provides a st
 * **Backend & Programming:** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 * **Databases:** ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+[![LinkedIn](https://img.shields.io/badge/_-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://tu-link-de-linkedin.com)
   
 ### Estadísticas de GitHub
 ![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=miaurrutiamenor&show_icons=true&theme=dark)
