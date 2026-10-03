@@ -23,6 +23,10 @@ My background in **graphic design, multimedia, animation, and UX** provides a st
 * **Backend & Programming:** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 * **Databases:** ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  
+### Estadísticas de GitHub
+![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=dark)
+
 
 ## Areas of Interest
 
@@ -33,7 +37,6 @@ My background in **graphic design, multimedia, animation, and UX** provides a st
 - Graphic Design & Branding
 - Animation & Motion Graphics
 - Multimedia & Interactive Experiences
-
 
 ## Design & Multimedia:
 - Adobe Photoshop
