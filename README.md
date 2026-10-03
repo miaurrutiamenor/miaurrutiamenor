@@ -25,7 +25,7 @@ My background in **graphic design, multimedia, animation, and UX** provides a st
 * **Databases:** ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   
 ### Estadísticas de GitHub
-![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=dark)
+![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=miaurrutiamenor&show_icons=true&theme=dark)
 
 
 ## Areas of Interest
