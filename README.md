@@ -24,10 +24,6 @@ My background in **graphic design, multimedia, animation, and UX** provides a st
 
 * **Databases:** ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-* **Game Development & Other Tools:** ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-
-* **Design & Multimedia:** Adobe Photoshop · Adobe Illustrator · Adobe After Effects · Adobe Premiere Pro · Blender · Clip Studio Paint
-
 ## Areas of Interest
 
 - Frontend & Web Development
@@ -37,3 +33,12 @@ My background in **graphic design, multimedia, animation, and UX** provides a st
 - Graphic Design & Branding
 - Animation & Motion Graphics
 - Multimedia & Interactive Experiences
+
+
+* **Design & Multimedia:**
+* Adobe Photoshop
+* · Adobe Illustrator
+* · Adobe After Effects
+* · Adobe Photoshop
+* · Blender
+* · Clip Studio Paint
