@@ -13,7 +13,7 @@ Each project reflects a different stage of my learning process, allowing me to c
 
 My background in **graphic design, multimedia, animation, and UX** provides a strong creative foundation that I apply to frontend development, combining technical implementation with visual design, usability, and user experience principles.
 
-**[Current Degree] — Escuela Da Vinci**  
+**Technical Degree in Systems Analyst — Escuela Da Vinci**  
 *2026 – Present*
 
 ## Technologies & Areas
