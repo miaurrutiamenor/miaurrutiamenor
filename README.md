@@ -35,10 +35,10 @@ My background in **graphic design, multimedia, animation, and UX** provides a st
 - Multimedia & Interactive Experiences
 
 
-* **Design & Multimedia:**
-* Adobe Photoshop
-* · Adobe Illustrator
-* · Adobe After Effects
-* · Adobe Photoshop
-* · Blender
-* · Clip Studio Paint
+## Design & Multimedia:
+- Adobe Photoshop
+- Adobe Illustrator
+- Adobe After Effects
+- Adobe Photoshop
+- Blender
+- Clip Studio Paint
