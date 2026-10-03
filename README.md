@@ -26,7 +26,7 @@ My background in **graphic design, multimedia, animation, and UX** provides a st
 * **Databases:** ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 Visit my Linkedin profile!
-[![LinkedIn](https://img.shields.io/badge/_-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]([https://tu-link-de-linkedin.com](https://www.linkedin.com/in/mia-urrutia-41854736a?utm_source=share_via&utm_content=profile&utm_medium=member_ios))
+[![LinkedIn](https://img.shields.io/badge/_-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](linkedin.com/in/mia-urrutia-41854736a)
   
 ### Estadísticas de GitHub
 ![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=miaurrutiamenor&show_icons=true&theme=dark)
